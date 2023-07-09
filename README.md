@@ -20,6 +20,7 @@ mindmap
     Libraries
       Redux
       React Spring
+      Three.js
     Frontend
       React
         Next.js
