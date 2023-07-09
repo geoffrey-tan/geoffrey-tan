@@ -13,3 +13,24 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=ts,react,next,jest,docker,gcp,nginx)](https://geoffreytan.dev/)
+
+```mermaid
+mindmap
+  root((Expertise))
+    Libraries
+      Redux
+      React Spring
+    Frontend
+      React
+        Next.js
+        React Native
+      JavaScript
+        TypeScript
+      CSS
+        Tailwind
+        SCSS
+    Tools
+      Docker
+      Jest
+      Cypress
+```
