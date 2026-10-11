@@ -10,7 +10,7 @@
 | [![Languages](https://skillicons.dev/icons?i=py,ts)](https://geoffreytan.dev/) | [![Frameworks](https://skillicons.dev/icons?i=react,next,jest)](https://geoffreytan.dev/) | [![Infrastructure](https://skillicons.dev/icons?i=docker,terraform,grafana)](https://geoffreytan.dev/) |
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"git0": "#334155", "gitBranchLabel0": "#ffffff", "cScale0": "#334155", "cScale1": "#2563eb", "cScale2": "#15803d", "cScale3": "#c2410c", "cScaleLabel0": "#ffffff", "cScaleLabel1": "#ffffff", "cScaleLabel2": "#ffffff", "cScaleLabel3": "#ffffff"}}}%%
+%%{init: {"theme": "base", "themeVariables": {"fontSize": "13px", "git0": "#334155", "gitBranchLabel0": "#ffffff", "cScale0": "#334155", "cScale1": "#2563eb", "cScale2": "#15803d", "cScale3": "#c2410c", "cScaleLabel0": "#ffffff", "cScaleLabel1": "#ffffff", "cScaleLabel2": "#ffffff", "cScaleLabel3": "#ffffff"}}}%%
 mindmap
   root((Focus))
     ui{{UI}}
